@@ -1,7 +1,7 @@
 function Home() {
     return (
         <div>
-            Home 5
+            Minha primeira pagina - Idéia Unica
         </div>
     )
 }
